@@ -1,0 +1,5 @@
+Credentials cache: API:D0F1C73A-C143-49DC-B0B5-6C080AACA341
+        Principal: jinhyunk@42SEOUL.KR
+
+  Issued                Expires               Principal
+Aug 26 00:16:40 2022  Aug 26 10:16:40 2022  krbtgt/42SEOUL.KR@42SEOUL.KR
